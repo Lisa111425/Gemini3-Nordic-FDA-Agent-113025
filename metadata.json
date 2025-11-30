@@ -1,0 +1,5 @@
+{
+  "name": "Nordic Flower Agent Studio",
+  "description": "A gamified, multi-model agentic system with 20 distinct Nordic flower themes, supporting Gemini 2.5, OpenAI, and Anthropic workflows.",
+  "requestFramePermissions": []
+}
